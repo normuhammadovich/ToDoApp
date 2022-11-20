@@ -48,6 +48,7 @@
 		049254892909175A00E1C4DD /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
 		6B9D52078827AFE1C8139CB2 /* Pods_ToDoApp_exam.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ToDoApp_exam.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		721BBBF9292ADC700010E0B6 /* task.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = task.json; path = ../../../../Desktop/task.json; sourceTree = "<group>"; };
+		72A8970F292AEFCF00BC55F7 /* .gitignore.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore.geojson; sourceTree = "<group>"; };
 		BCA3AF135A1A50A3512ADE6C /* Pods-ToDoApp_exam.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToDoApp_exam.release.xcconfig"; path = "Target Support Files/Pods-ToDoApp_exam/Pods-ToDoApp_exam.release.xcconfig"; sourceTree = "<group>"; };
 		EB5ED6885F835613B03ACDF3 /* Pods-ToDoApp_exam.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToDoApp_exam.debug.xcconfig"; path = "Target Support Files/Pods-ToDoApp_exam/Pods-ToDoApp_exam.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,6 +68,7 @@
 		049254512908EA5900E1C4DD = {
 			isa = PBXGroup;
 			children = (
+				72A8970F292AEFCF00BC55F7 /* .gitignore.geojson */,
 				0492545C2908EA5900E1C4DD /* ToDoApp_exam */,
 				0492545B2908EA5900E1C4DD /* Products */,
 				128976156676378774347C2F /* Pods */,
